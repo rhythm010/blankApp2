@@ -1,0 +1,34 @@
+{
+  "name": "blankApp2",
+  "version": "0.0.1",
+  "author": "Ionic Framework",
+  "homepage": "http://ionicframework.com/",
+  "private": true,
+  "scripts": {
+    "start": "ionic-app-scripts serve",
+    "clean": "ionic-app-scripts clean",
+    "build": "ionic-app-scripts build",
+    "lint": "ionic-app-scripts lint"
+  },
+  "dependencies": {
+    "rxjs": "6.1.0",
+    "core-js": "2.5.5",
+    "zone.js": "0.8.26",
+    "@angular/cdk": "6.4.7",
+    "@angular/core": "6.0.0",
+    "@angular/forms": "6.0.0",
+    "@angular/common": "6.0.0",
+    "@angular/router": "6.0.0",
+    "@angular/compiler": "6.0.0",
+    "@angular/flex-layout": "6.0.0-beta.18",
+    "@angular/platform-browser": "6.0.0",
+    "@angular/platform-browser-dynamic": "6.0.0",
+    "angularfire2": "^5.1.1",
+    "firebase": "^5.8.0"
+  },
+  "devDependencies": {
+    "@ionic/app-scripts": "3.2.1",
+    "typescript": "~2.6.2"
+  },
+  "description": "An Ionic project"
+}
